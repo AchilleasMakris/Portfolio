@@ -2,9 +2,9 @@ const mobileNav = () => {
     const headerBtn = document.querySelector('.header__bars');
     const mobileNav = document.querySelector('.mobile-nav');
     const mobileLinks = document.querySelectorAll('.mobile-nav__link');
-    // state of click 
-    let isMobileNavOpen = false;
 
+    // State
+    let isMobileNavOpen = false;
 
     headerBtn.addEventListener('click', () => {
         isMobileNavOpen = !isMobileNavOpen;
@@ -15,7 +15,6 @@ const mobileNav = () => {
             mobileNav.style.display = 'none';
             document.body.style.overflowY = 'auto';
         }
-
     });
 
     mobileLinks.forEach(link => {
