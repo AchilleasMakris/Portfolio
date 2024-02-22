@@ -13,9 +13,12 @@ import '../styles/utils.css';
 import mobileNav from './utils/mobile-nav';
 import darkMode from './utils/dark-mode';
 import lazyLoading from './utils/lazy-loading';
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { injectSpeedInsights } from '@vercel/speed-insights';
+
+
 
 
 mobileNav();
 darkMode();
 lazyLoading();
+injectSpeedInsights();
