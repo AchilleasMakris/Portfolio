@@ -14,6 +14,7 @@ import mobileNav from './utils/mobile-nav';
 import darkMode from './utils/dark-mode';
 import lazyLoading from './utils/lazy-loading';
 import { injectSpeedInsights } from '@vercel/speed-insights';
+import { inject } from "@vercel/analytics"
 
 
 
@@ -22,3 +23,4 @@ mobileNav();
 darkMode();
 lazyLoading();
 injectSpeedInsights();
+inject();
