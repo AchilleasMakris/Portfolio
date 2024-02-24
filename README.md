@@ -1,9 +1,10 @@
-Portfolio Project
-Introduction
+**`Portfolio Project`**
+
+## Introduction
 
 A portfolio web page showcasing my work.
 
-Technologies
+## Technologies
 
 This project is created with:
 
@@ -15,7 +16,7 @@ This project is created with:
     Command Line
     Visual Studio Code
 
-Sources
+## Sources
 
 With the resources available and studies from:
 
@@ -27,15 +28,15 @@ With the resources available and studies from:
     Google research
     Slayingthedragon
 
-Inspiration
+## Inspiration
 
     Slaying The Dragon Course Project : https://www.slayingthedragon.io/dashboard/css/introduction
 
-Status
+## Status
 
 Project is completed as required.
 
-Author/Contact
+## Author/Contact
 
     M. Achilleas - Initial work
     Website Preview: https://www.achilleasmakris.dev/
