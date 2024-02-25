@@ -30,7 +30,7 @@ With the resources available and studies from:
 
 ## Inspiration
 
-    Pomodoro Aesthetic Website: https://studywithme.io/aesthetic-pomodoro-timer/
+    Slaying The Dragon course : https://www.slayingthedragon.io/dashboard/css/introduction
 
 ## Status
 
