@@ -39,5 +39,5 @@ Project under development!
 ## Author/Contact
 
     M. Achilleas - Initial work
-    Website Preview: https://pomodoro-project-psi.vercel.app/
+    Website Preview: https://www.achilleasmakris.dev/
     
