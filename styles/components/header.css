@@ -88,3 +88,24 @@
 /* 2xl */
 
 /* @media (min-width: 1536px) {} */
+
+.about__ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.about__ul li {
+  display: inline-flex;
+  align-items: center;
+  margin-right: 20px;
+}
+
+.about__ul li img {
+  width: 40px;
+  margin-right: 10px;
+}
+
+.about__ul li p {
+  margin: 0;
+}
