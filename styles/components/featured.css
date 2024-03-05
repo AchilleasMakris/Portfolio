@@ -80,9 +80,10 @@
   transition: background-color 0.3s;
 }
 
+/*
 .featured__img-wrapper:hover::after {
-  /* background-color: rgba(79, 70, 229, 0.1); */
-}
+   background-color: rgba(79, 70, 229, 0.1); 
+}*/
 
 /* xs */
 
