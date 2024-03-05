@@ -50,14 +50,14 @@
   margin-top: 5rem;
 }
 
-.loading {
-  filter: blur(40px) grayscale(100%);
+/* .loading {
+  filter: blur(10px) grayscale(100%);
 }
 
 .loaded {
   filter: blur(0) grayscale(0);
   transition: 0.5s ease-in-out;
-}
+} */
 
 /* xs */
 
