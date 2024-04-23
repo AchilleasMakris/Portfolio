@@ -38,6 +38,6 @@ Project under development!
 
 ## Author/Contact
 
-    M. Achilleas - Initial work
+    M. Achilleas
     Website Preview: https://www.achilleasmakris.dev/
     
