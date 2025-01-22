@@ -20,12 +20,18 @@
   line-height: 0.9;
 }
 
-.hero__title {
+.hero__title2 {
   color: var(--clr-light);
   text-transform: uppercase;
   font-size: var(--size-4xl);
-  letter-spacing: -0.05em;
   line-height: 0.9;
+}
+
+.hero__title {
+  color: var(--clr-light);
+
+  font-size: var(--size-4xl);
+  letter-spacing: -0.04em;
 }
 
 .hero__description {
