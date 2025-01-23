@@ -114,7 +114,7 @@
   align-items: center;
   gap: 0.5em; /* Adjust space between the icon and text */
   text-decoration: none;
-  color: var(--clr-links); /* Use the same variable as the icon for consistency */
+  color: white; /* Use the same variable as the icon for consistency */
 }
 
 .github-icon {
